@@ -45,6 +45,16 @@ a:hover {
     margin-right: auto;
     color: white;
 }
+.tag_name {
+    display: block;
+    margin-right: auto;
+    color: rgb(247, 105, 105);
+    background-color: #413535;
+    padding: 10px;
+    border-radius: 5px;
+    display: table;
+    margin: 10px auto;
+}
 .nav li {
   padding: 5px 10px 10px 10px;
 }
